@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug involving a ZeroDivisionError in Python. The bug is tricky because the code appears to handle the case where 'a' is zero, but it neglects an edge case in a less straightforward manner. The solution shows how to handle this edge case effectively, offering improved exception handling and robustness.
